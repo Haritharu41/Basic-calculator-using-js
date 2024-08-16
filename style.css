@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container{
+    justify-content: center;
+    align-items: center ;
+    width: 60vw;
+    margin: auto;
+
+}
+
+input{
+    border: 2px solid black;
+    padding: 16px 49px;
+    margin: 11px;
+    border-radius: 9px;
+  
+}
+
+.button{
+    padding: 13px 20px;
+    margin: 3px;
+    border-radius: 6px;
+    border: 2px solid black;
+    cursor: pointer;
+    width: 60px;
+
+
+}
